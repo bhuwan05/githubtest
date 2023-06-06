@@ -8,3 +8,9 @@ class test{
 		System.out.ptintln("Java programs")
 	}
 }
+
+class test{
+	public static void main(String[] args){
+		System.out.ptintln("Git Lesson")
+	}
+}
