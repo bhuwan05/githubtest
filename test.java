@@ -34,8 +34,4 @@ public class Main {
       System.out.println(num + " is not a prime number.");
   }
 }
-class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Final, test"); 
-    }
-}
+//Last class removed...
