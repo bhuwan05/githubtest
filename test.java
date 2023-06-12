@@ -5,16 +5,16 @@ class HelloWorld {
 }
 class test{
 	public static void main(String[] args){
-		System.out.ptintln("Java programs")
+		System.out.println("Java programs");
 	}
 }
 
-class test{
+class test1{
 	public static void main(String[] args){
-		System.out.ptintln("Git Lesson")
+		System.out.println("Git Lesson");
 	}
 }
-public class Main {
+ class Main {
 
   public static void main(String[] args) {
 
@@ -33,4 +33,9 @@ public class Main {
     else
       System.out.println(num + " is not a prime number.");
   }
+}
+class HelloWorld1 {
+    public static void main(String[] args) {
+        System.out.println("Final, test"); 
+    }
 }
